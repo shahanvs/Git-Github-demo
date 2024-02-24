@@ -2,8 +2,8 @@
 This is demo is for Terminal &amp;Git/Github class.
 
 # TERMINAL
-ls -> List files
-pwd -> Print working directory
+ls -> List files\n
+pwd -> Print working directory\n
 clear -> Clear screen
 cd  -> Change directory
 cd ..  -> Back button
@@ -25,6 +25,6 @@ git config --global user.name "<username>"
 git config --global user.email "<Email>"
 git clone <link> -> For cloning a repository on our local machine
 git status  ->  Displays the state of the code
-git add <File name>  ->  Adds new or changes files in your working directory to the Git staging area
+git add (File name)  ->  Adds new or changes files in your working directory to the Git staging area
 git commit -m "some message"  ->  It is the record of change
 git push origin main  ->  Upload local repository content to remote repository

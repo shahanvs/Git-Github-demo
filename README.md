@@ -2,21 +2,21 @@
 This is demo is for Terminal &amp;Git/Github class.
 
 # TERMINAL
-ls -> List files\n
-pwd -> Print working directory\n
-clear -> Clear screen
-cd  -> Change directory
-cd ..  -> Back button
-cd ../..  ->  Multiple back
-cd /  -> Root directory
-cd ~  -> Home directory
-mkdir  ->  Make directory
-man ls  ->  Give info about ls command
-man mkdir  ->  Give info about mkdir command
-touch <filename>  ->  Used to create files
-rm  ->  Removes files
-rmdir  ->  Removes empty folder
-rm -rf  ->  Removes any folder
+ls -> List files  
+pwd -> Print working directory  
+clear -> Clear screen  
+cd  -> Change directory  
+cd ..  -> Back button  
+cd ../..  ->  Multiple back  
+cd /  -> Root directory  
+cd ~  -> Home directory  
+mkdir  ->  Make directory  
+man ls  ->  Give info about ls command  
+man mkdir  ->  Give info about mkdir command  
+touch <filename>  ->  Used to create files  
+rm  ->  Removes files  
+rmdir  ->  Removes empty folder  
+rm -rf  ->  Removes any folder  
 
 # Git/Github
 git --version  ->  For git version

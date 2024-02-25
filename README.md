@@ -1,6 +1,3 @@
-## Delta-demo
-This is demo is for Terminal &amp;Git/Github class.
-
 # TERMINAL
 ls -> List files.  
 pwd -> Print working directory.  
